@@ -15,7 +15,7 @@ namespace LoggingKata
             // Objective: Find the two Taco Bells that are the farthest apart from one another.
             // Some of the TODO's are done for you to get you started. 
 
-            logger.LogInfo("Log initialized");
+            //logger.LogInfo("Log initialized");
 
             // Use File.ReadAllLines(path) to grab all the lines from your csv file. 
             // Optional: Log an error if you get 0 lines and a warning if you get 1 line
